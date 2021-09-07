@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{65F330B9-EE3E-4CC7-9D5D-9999D30992E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RollbarAzureFunctionSample/RollbarAzureFunctionSample.cs">
+    <Files>
+      <File FileName="RollbarAzureFunctionSample/RollbarAzureFunctionSample.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RollbarAzureFunctionSample" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RollbarAzureFunctionSample FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
